@@ -17,7 +17,6 @@ import openai
 
 # Code has been refactored using Copilot and ChatGPT
 # Fetch API key from environment variables for security
-#api_key = os.getenv("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")
 
 api_key = os.getenv("OPENAI_API_KEY", " Replace with your actual API key")  
 if not api_key:
