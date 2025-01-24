@@ -14,7 +14,7 @@ Scientific English has undergone rapid and unprecedented changes in recent years
 
 ## Requirements and Running the Code
 * Python 3.9+
-* Spacey 3.8
+* Spacey 
 * Install required packages via pip
 
 ## Note on Code
