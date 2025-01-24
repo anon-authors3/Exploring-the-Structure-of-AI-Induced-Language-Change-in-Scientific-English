@@ -13,7 +13,7 @@ def gpt_summarizes_with_keywords(input_text):
     """
 
     client = OpenAI(
-        api_key="GETFROMTSJ",
+        api_key="",
     )
 
     chat_completion = client.chat.completions.create(
